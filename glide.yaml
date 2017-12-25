@@ -1,0 +1,3 @@
+package: github.com/faerulsalamun/go-csv-mongodb-wilayah-administrasi-indonesia
+import:
+- package: gopkg.in/mgo.v2
